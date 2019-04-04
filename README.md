@@ -1,27 +1,15 @@
 # Kanban
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
+Esse projeto tem como objetivo aplicar alguns conhecimentos desta nova versão do Angular 7, neste caso buscando utiilizar o Drag and Drop para criar um Kanban para administração de tarefas.
 
 ## Development server
+Para "startar" o projeto use o `ng serve` para iniciar o servidor. Vá para a página `http://localhost:4200/` e divirta-se.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```http
+http://localhost:4200/
+```
 
 ## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Os conceitos de teste ainda estão sendo implementados, aguarde uma futura implementação :(. #KarmaFells.
 
 ## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Para conhecer um pouco mais sobre o Angular 7 aconselho a ler a documentação do site oficial [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md). Boa leitura meus caros amigo <3.
